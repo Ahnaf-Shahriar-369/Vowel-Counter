@@ -1,0 +1,1 @@
+This website is a vowel counter that counts vowels in user-entered text. Built with HTML, CSS, and JavaScript, it features a responsive design with animations. Users input text in a textarea, click "Count Vowels," and the number of vowels (a, e, i, o, u) is displayed. Open index.html in a browser to use.
